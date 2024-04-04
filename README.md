@@ -1,2 +1,2 @@
 # Deep Learning
-##### Project Files and Assignments
+AIT-Budapest Deep Learning course project files and assignments.
